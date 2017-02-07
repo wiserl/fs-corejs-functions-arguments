@@ -1,7 +1,12 @@
-'use strict';
+export default class {
 
-export default {
-  greet(){
-    return 'Hello World';
+  add(...values) {
+    return values.reduce((prev, current) => {
+      return prev + current;
+    }, 0);
+  }
+
+  introspect() {
+    return arguments;
   }
 }
