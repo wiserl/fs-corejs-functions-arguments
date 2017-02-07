@@ -2,7 +2,7 @@
 
 > Understand variadic functions and their purpose
 
-[![Build Status](https://travis-ci.org/helio-training/fs-corejs-functions-arguments.svg?branch=master)](https://travis-ci.org/helio-training/fs-corejs-functions-arguments)
+[![Build Status](https://travis-ci.org/helio-training/fs-corejs-functions-arguments.svg?branch=solutions)](https://travis-ci.org/helio-training/fs-corejs-functions-arguments)
 
 ## Function Parameters Revisited
 
