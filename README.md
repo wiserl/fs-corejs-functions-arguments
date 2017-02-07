@@ -2,6 +2,8 @@
 
 > Understand variadic functions and their purpose
 
+[![Build Status](https://travis-ci.org/helio-training/fs-corejs-functions-arguments.svg?branch=master)](https://travis-ci.org/helio-training/fs-corejs-functions-arguments)
+
 ## Function Parameters Revisited
 
 A function's parameters are defined when the function declaration or expression is created.  The parameters are placed inside the `()`.
