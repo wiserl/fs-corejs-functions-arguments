@@ -87,7 +87,7 @@ Inside a function, there exists a special object `arguments`.  Before the rest o
 
 ```js
 function oldSchool() {
-  this.arguments
+  this.arguments // might be arguments
 }
 ```
 
